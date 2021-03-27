@@ -26,7 +26,7 @@ freetests.py is LICENSE'D under a BSD-like license:
 
 From ws4py
 
-Copyright (c) 2011-2014, Sylvain Hellegouarch, Abram Hindle
+Copyright (c) 2011-2014, Sylvain Hellegouarch, Abram Hindle, Hongru Qi
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -59,3 +59,11 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Hongru Qi
+
+Reference
+============
+Definition of Client, function read_ws() and subscribe_sockets() are cited from Hazel Victoria Campbell, https://github.com/hazelybell
+from Github, https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSocketsExamples/chat.py
+Function wsSetup() is cited from Hazel Victoria Campbell, https://github.com/hazelybell, Abram Hindle, https://github.com/abramhindle
+from Github, https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSocketsExamples/static/chat.html
