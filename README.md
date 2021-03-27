@@ -63,8 +63,8 @@ Contributors
 
 Reference
 ============
-Definition of Client, function read_ws() and subscribe_sockets() are cited from Hazel Victoria Campbell, https://github.com/hazelybell
+Definition of Client, function read_ws() and subscribe_sockets() in socket.py are cited from Hazel Victoria Campbell, https://github.com/hazelybell
 from Github, https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSocketsExamples/chat.py
 
-Function wsSetup() is cited from Hazel Victoria Campbell, https://github.com/hazelybell, Abram Hindle, https://github.com/abramhindle
+Function wsSetup() in index.html is cited from Hazel Victoria Campbell, https://github.com/hazelybell, Abram Hindle, https://github.com/abramhindle
 from Github, https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSocketsExamples/static/chat.html
